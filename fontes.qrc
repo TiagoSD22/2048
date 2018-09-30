@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Apps-2048-icon.png</file>
+        <file>movimento_impedido.wav</file>
+        <file>movimento_realizado.wav</file>
+        <file>ponto.wav</file>
+        <file>start.wav</file>
+        <file>vitoria.wav</file>
+        <file>perdeu.wav</file>
+        <file>tema.wav</file>
+        <file>media-volume-3.png</file>
+        <file>music_off-512.png</file>
+    </qresource>
+</RCC>

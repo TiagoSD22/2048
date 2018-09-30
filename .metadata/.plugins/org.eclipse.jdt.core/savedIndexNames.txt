@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/hal9000/Área de Trabalho/2048-GUI/.metadata/.plugins/org.eclipse.jdt.core
